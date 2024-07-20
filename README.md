@@ -1,0 +1,2 @@
+# GitBush
+bastard repository
